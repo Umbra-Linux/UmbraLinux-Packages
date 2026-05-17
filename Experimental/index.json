@@ -1,0 +1,8 @@
+{
+  "neofetch": {
+    "latest": "7.1.0",
+    "versions": {
+      "7.1.0": "packages/neofetch/neofetch-7.1.0.tar.gz"
+    }
+  }
+}
