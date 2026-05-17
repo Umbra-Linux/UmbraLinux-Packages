@@ -1,0 +1,9 @@
+{
+  "repositories": {
+    "core": "Core/index.json",
+    "experimental": "Experimental/index.json",
+    "flux": "Flux/index.json",
+    "classic": "Classic/index.json",
+    "studio": "Studio/index.json"
+  }
+}
